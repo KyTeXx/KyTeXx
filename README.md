@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hakkımda</h1>
+  <h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hakkımda</h1>
   <!-- <p>Discord Onaylı Geliştiriciyim.</p> -->
     <p>Benim Hakkımda Detaylı Bilgi İçin Aşağıdaki Adımları Okumayı Unutma!</p>
   <br>

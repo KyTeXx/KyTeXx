@@ -1,4 +1,8 @@
 <div align="center">
+<img src= "https://user-images.githubusercontent.com/52673172/148129605-f5beb7f1-d0e7-4962-92da-059ec3eb87e9.png" width="500px">
+</div>
+
+<div align="center">
   <h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hakkımda</h1>
   <!-- <p>Discord Onaylı Geliştiriciyim.</p> -->
     <p>Benim Hakkımda Detaylı Bilgi İçin Aşağıdaki Adımları Okumayı Unutma!</p>

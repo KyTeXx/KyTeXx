@@ -38,8 +38,8 @@
     <td>Gelişmiş, Türkçe Discord Botu</td>
   </tr>
   <tr>
-    <td><a href="https://discord.com/oauth2/authorize?client_id=905807350131200041&scope=bot&permissions=8">GiveawaysBot Discord Bot</a></td>
-    <td>Gelişmiş, Türkçe Discord Botu. Aktif Olan Çekilişleri Kontrol Edebilir veya Başlatılmış Olan Çekilişi Düzenleyebilirsin</td>
+    <td><a href="https://discord.com/oauth2/authorize?client_id=905807350131200041&scope=bot&permissions=8">Hypex Discord Bot</a></td>
+    <td>Gelişmiş, Türkçe Discord Botu. API Sorunu Yaşamadan Özgürce Müzik Dinleyebilirsin</td>
   </tr>
 </table>
   

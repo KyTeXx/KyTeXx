@@ -6,6 +6,7 @@
   <h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hakkımda</h1>
   <!-- <p>Discord Onaylı Geliştiriciyim.</p> -->
     <p>Benim Hakkımda Detaylı Bilgi İçin Aşağıdaki Adımları Okumayı Unutma!</p>
+   <!-- ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%235A1AF7&size=29&lines=Developer;Dart+with+Flutter+SDK;Go;JavaScript+;NodeJS;TypeScript) -->
   <br>
   <br>
 </div>

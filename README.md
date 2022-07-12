@@ -10,11 +10,23 @@
   <br>
   <br>
 </div>
+
+<!-- Spotify Kısmı -->
+<div align= "center">
+    <!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=oitziwwbyioezmtmfndiu3qqw&count=1) -->
+    <img src= "https://spotify-recently-played-readme.vercel.app/api?user=oitziwwbyioezmtmfndiu3qqw&count=1">
+</div>
   
+ <!-- Discord Presence Kısmı -->
 <div align="center">
     <a href="https://discord.com/users/425656085228027904">
   <img src="https://lanyard-profile-readme.vercel.app/api/425656085228027904"></a>
 </div>
+
+<div align="center">
+   <a href="https://discord.com/users/425656085228027904" target="_blank">
+      <img src="https://lanyard-profile-readme.vercel.app/api/425656085228027904">
+   </a>
 
  <!-- 
 <div align="center">

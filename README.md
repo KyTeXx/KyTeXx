@@ -3,38 +3,30 @@
 </div>
 
 <div align="center">
-  <h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hakkımda</h1>
+  <h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hakkımda</h1> 
   <!-- <p>Discord Onaylı Geliştiriciyim.</p> -->
     <p>Benim Hakkımda Detaylı Bilgi İçin Aşağıdaki Adımları Okumayı Unutma!</p>
-   <!-- ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%235A1AF7&size=29&lines=Developer;Dart+with+Flutter+SDK;Go;JavaScript+;NodeJS;TypeScript) -->
   <br>
   <br>
 </div>
 
-<!-- Spotify Kısmı -->
-<div align= "center">
-    <!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=oitziwwbyioezmtmfndiu3qqw&count=1) -->
+<!-- Yazı Presence Kısmı -->
+<div align="center">
+  <img src= "https://readme-typing-svg.herokuapp.com?color=EFFF46&background=FF000000&center=yanl%C4%B1%C5%9F&vCenter=yanl%C4%B1%C5%9F&lines=Kadirium+Developer;Hypex+Developer;JavaScript;NodeJS;TypeScript;Java;Web+Design;Web+Developer">
+</div>
+
+<!-- Spotify Presence Kısmı -->
+<div align= "left">
     <img src= "https://spotify-recently-played-readme.vercel.app/api?user=oitziwwbyioezmtmfndiu3qqw&count=1">
 </div>
-  
- <!-- Discord Presence Kısmı -->
-<div align="center">
-    <a href="https://discord.com/users/425656085228027904">
+
+<!-- Discord Presence Kısmı -->
+<div align="right">
+    <a href="https://discord.com/users/425656085228027904" target="_blank">
   <img src="https://lanyard-profile-readme.vercel.app/api/425656085228027904"></a>
 </div>
-
-<div align="center">
-   <a href="https://discord.com/users/425656085228027904" target="_blank">
-      <img src="https://lanyard-profile-readme.vercel.app/api/425656085228027904">
-   </a>
-
- <!-- 
-<div align="center">
-<h3>Discord Status</h3>
-   <img src="https://discord.c99.nl/widget/theme-2/425656085228027904.png" width="%50" height="100px" alt="stats" />
-</div>
-  --> 
   
+<!-- Github Presence Kısmı -->
 <div align="center">
   <a href="https://github.com/memetkya">
   <img src="https://github-readme-stats.vercel.app/api?username=memetkya&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&theme=tokyonight&custom_title=memetkya%27s%20GitHub%20Stats"></a>
@@ -47,11 +39,11 @@
     <td>Açıklama</td>
   </tr>
   <tr>
-    <td><a href="https://discord.com/oauth2/authorize?client_id=548838888777580554&scope=bot&permissions=8">Kadirium Discord Bot</a></td>
-    <td>Gelişmiş, Türkçe Discord Botu</td>
+    <td><a href="https://discord.com/api/oauth2/authorize?client_id=548838888777580554&permissions=8&redirect_uri=https%3A%2F%2Fdiscord.com%2Finvite%2Fxhx7hVyV2N&response_type=code&scope=bot%20guilds.join%20applications.commands">Kadirium Discord Bot</a></td>
+    <td>Gelişmiş, Çok Fonksiyonlu Türkçe Discord Botu</td>
   </tr>
   <tr>
-    <td><a href="https://discord.com/oauth2/authorize?client_id=967706063845601310&scope=bot&permissions=8">Hypex Discord Bot</a></td>
+    <td><a href="https://discord.com/api/oauth2/authorize?client_id=996027272442171432&permissions=8&redirect_uri=https%3A%2F%2Fdiscord.com%2Finvite%2Fxhx7hVyV2N&response_type=code&scope=guilds.join%20bot%20applications.commands">Hypex Discord Bot</a></td>
     <td>Gelişmiş, Türkçe Discord Botu. API Sorunu Yaşamadan Özgürce Müzik Dinleyebilirsin</td>
   </tr>
 </table>

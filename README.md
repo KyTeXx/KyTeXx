@@ -16,10 +16,11 @@
 </div>
 
 <!-- Spotify Presence Kısmı -->
+<!-- 
 <div align= "left">
     <img src= "https://spotify-recently-played-readme.vercel.app/api?user=oitziwwbyioezmtmfndiu3qqw&count=1">
 </div>
-
+ -->
 <!-- Discord Presence Kısmı -->
 <div align="right">
     <a href="https://discord.com/users/425656085228027904" target="_blank">

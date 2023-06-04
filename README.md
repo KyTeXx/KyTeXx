@@ -58,25 +58,25 @@
   
 <details>
 <summary>GitHub İstatistik</summary>
-
-  <div align ="center">
-    <a href="https://github.com/memetkya">
-    <img src="https://github-readme-stats.vercel.app/api?username=memetkya&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&theme=tokyonight&custom_title=memetkya%27s%20GitHub%20Stats"></a> 
-  </div>
   
   <div align ="center">
+    <a href="https://github.com/memetkya">
+    <img src="https://github-readme-stats.vercel.app/api?username=memetkya&show_icons=true&theme=radical"></a> 
+  </div>
+  
+  <div align ="left">
     <a href="https://github.com/memetkya">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=memetkya">
     </a> 
   </div>
 
-  <div align ="center">
+  <div align ="right">
     <a href="https://github.com/memetkya">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=memetkya&layout=compact">
     </a> 
   </div>
   
-  <div aligj ="center">
+  <div align ="center">
     <a href="https://github.com/memetkya">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=memetkya&layout=compact">
     </a>
@@ -86,13 +86,31 @@
 
 <details>
 <summary>GitHub Depolar</summary>
-<!-- Github Depo Kısmı -->
-  <a href="https://github.com/memetkya/GitHub_Depo">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=memetkya&repo=github-readme-stats" />
-  </a>
-  <a href="https://github.com/memetkya/GitHub_Depo">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=memetkya&repo=convoychat" />
-  </a>
+
+  <div align="left">
+    <a href="https://github.com/memetkya/GitHub_Depo">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=memetkya&repo=github-readme-stats" / width="500px">
+    </a>
+  </div>
+  
+  <div align="right">
+    <a href="https://github.com/memetkya/GitHub_Depo">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=memetkya&repo=convoychat" / width="500px">
+    </a>
+  </div>
+
+  <div align="left">
+    <a href="https://github.com/memetkya/GitHub_Depo">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=memetkya&repo=github-readme-stats" / width="500px">
+    </a>
+  </div>
+  
+  <div align="right">
+    <a href="https://github.com/memetkya/GitHub_Depo">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=memetkya&repo=convoychat" / width="500px">
+    </a>
+  </div>
+  
 </details>
 
 <!--

@@ -27,12 +27,6 @@
   <img src="https://lanyard-profile-readme.vercel.app/api/425656085228027904"></a>
 </div>
    -->
-   
-<!-- Github Presence Kısmı -->
-<div align="center">
-  <a href="https://github.com/memetkya">
-  <img src="https://github-readme-stats.vercel.app/api?username=memetkya&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&theme=tokyonight&custom_title=memetkya%27s%20GitHub%20Stats"></a>
-  </div>
 
  ### 💻 Projeler
 <table align="center">
@@ -62,20 +56,40 @@
 <a href="https://discord.gg/RRhWDTmP5K" target"blank_"><img src="https://img.shields.io/badge/server%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
   
+<details>
+<summary>Ekstra Bilgi</summary>
+<!-- Ekstra Bilgi Kısmı -->
+  <div align ="center">
+  <a href="https://github.com/memetkya">
+  <img src="https://github-readme-stats.vercel.app/api?username=memetkya&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&theme=tokyonight&custom_title=memetkya%27s%20GitHub%20Stats"></a> 
+  </div>
+  
+  <div align ="center">
+  <a href="https://github.com/memetkya">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=memetkya"></a> 
+  </div>
+  
+  <div align ="center">
+  <a href="https://github.com/memetkya">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=memetkya&layout=compact"></a> 
+  </div>
+  
+
+  
+</details>
+
+<details>
+<summary>GitHub Depolar</summary>
+<!-- Github Depo Kısmı -->
+  <a href="https://github.com/memetkya/GiveawaysBot">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=memetkya&repo=github-readme-stats" />
+  </a>
+  <a href="https://github.com/memetkya/hypex-music">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=memetkya&repo=convoychat" />
+  </a>
+</details>
+
 <!--
-<div align = "center">
-<img src = "https://github-readme-stats.vercel.app/api?username=iUgur&show_icons=true&theme=tokyonight" width = "% 100" height = "150px" />
-  <br>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=iUgur&layout=compact&theme=tokyonight" width = "% 100" height = "150px"  />
-  <br> 
-</div>
-<br><br>
-  <h1>İletişim</h1>
-  <a href="https://discord.com/users/753842258457002036" target="_blank"><img src="https://shields.io/badge/iUgur-111111.svg?&style=for-the-badge&logo=discord"></a>
-</div>
--->
-
-
 <details>
 <summary>Daha Fazla Bilgi</summary>
     
@@ -102,4 +116,4 @@
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=pnpm&color=F69220&logo=pnpm&logoColor=FFF&label=">
 </div>
 </details>
-
+-->

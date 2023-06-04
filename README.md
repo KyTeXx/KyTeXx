@@ -84,10 +84,10 @@
 <details>
 <summary>GitHub Depolar</summary>
 <!-- Github Depo Kısmı -->
-  <a href="https://github.com/memetkya/GiveawaysBot">
+  <a href="https://github.com/memetkya/GitHub_Depo">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=memetkya&repo=github-readme-stats" />
   </a>
-  <a href="https://github.com/memetkya/hypex-music">
+  <a href="https://github.com/memetkya/GitHub_Depo">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=memetkya&repo=convoychat" />
   </a>
 </details>

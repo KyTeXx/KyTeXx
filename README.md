@@ -47,8 +47,8 @@
   
 ### 👤 Hesaplar
 <div align="center">
-   <a href="https://discord.com/users/425656085228027904" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://www.youtube.com/channel/UCZpodmb0g4T9zfR03Pp9RkQ/" target"blank_"><img src="https://img.shields.io/badge/Youtube%20-111111.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
+   <a href="https://discord.gg/RRhWDTmP5K" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://discord.gg/RRhWDTmP5K" target"blank_"><img src="https://img.shields.io/badge/Youtube%20-111111.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
    <a href="https://github.com/memetkya" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
  <!--  <a href="https://open.spotify.com/user/q3g6qbtferll26lky9bptfwfn?si=35881eab86bd4b2a" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
        <a href="https://twitter.com/ervelll" target"blank_"><img src="https://img.shields.io/badge/Twitter%20-111111.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>

@@ -60,23 +60,26 @@
 <summary>Ekstra Bilgi</summary>
 <!-- Ekstra Bilgi Kısmı -->
   <div align ="center">
-  <a href="https://github.com/memetkya">
-  <img src="https://github-readme-stats.vercel.app/api?username=memetkya&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&theme=tokyonight&custom_title=memetkya%27s%20GitHub%20Stats"></a> 
+    <a href="https://github.com/memetkya">
+    <img src="https://github-readme-stats.vercel.app/api?username=memetkya&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&theme=tokyonight&custom_title=memetkya%27s%20GitHub%20Stats"></a> 
   </div>
   
   <div align ="center">
-  <a href="https://github.com/memetkya">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=memetkya"></a> 
+    <a href="https://github.com/memetkya">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=memetkya">
+    </a> 
+  </div>
+
+  <div align ="center">
+    <a href="https://github.com/memetkya">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=memetkya&layout=compact">
+    </a> 
   </div>
   
-  <div align ="center">
-  <a href="https://github.com/memetkya">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=memetkya&layout=compa"></a> 
-  </div>
-  
-  <div align ="center">
-  <a href="https://github.com/memetkya">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=memetkya&layout=compact"></a> 
+  <div aligj ="center">
+    <a href="https://github.com/memetkya">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=memetkya&layout=compact">
+    </a>
   </div>
   
 </details>

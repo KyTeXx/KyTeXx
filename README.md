@@ -57,8 +57,8 @@
 </div>
   
 <details>
-<summary>Ekstra Bilgi</summary>
-<!-- Ekstra Bilgi Kısmı -->
+<summary>GitHub İstatistik</summary>
+
   <div align ="center">
     <a href="https://github.com/memetkya">
     <img src="https://github-readme-stats.vercel.app/api?username=memetkya&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&theme=tokyonight&custom_title=memetkya%27s%20GitHub%20Stats"></a> 

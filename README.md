@@ -71,10 +71,13 @@
   
   <div align ="center">
   <a href="https://github.com/memetkya">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=memetkya&layout=compact"></a> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=memetkya&layout=compa"></a> 
   </div>
   
-
+  <div align ="center">
+  <a href="https://github.com/memetkya">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=memetkya&layout=compact"></a> 
+  </div>
   
 </details>
 

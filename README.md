@@ -16,17 +16,18 @@
 </div>
 
 <!-- Spotify Presence Kısmı -->
-<!-- 
-<div align= "left">
-    <img src= "https://spotify-recently-played-readme.vercel.app/api?user=oitziwwbyioezmtmfndiu3qqw&count=1">
+ <div align= "left">
+    <img src= "https://spotify-recently-played-readme.vercel.app/api?user=3ps0gb42l4ebj1s1qaofqq3iq&count=1">
 </div>
- -->
+ 
 <!-- Discord Presence Kısmı -->
+<!-- 
 <div align="right">
     <a href="https://discord.com/users/425656085228027904" target="_blank">
   <img src="https://lanyard-profile-readme.vercel.app/api/425656085228027904"></a>
 </div>
-  
+   -->
+   
 <!-- Github Presence Kısmı -->
 <div align="center">
   <a href="https://github.com/memetkya">

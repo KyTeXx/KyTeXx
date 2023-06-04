@@ -11,8 +11,8 @@
 </div>
 
 <!-- Yazı Presence Kısmı -->
-<div align="center">
-  <img src= "https://readme-typing-svg.herokuapp.com?color=EFFF46&background=FF000000&center=yanl%C4%B1%C5%9F&vCenter=yanl%C4%B1%C5%9F&lines=Kadirium+Developer;JavaScript;NodeJS;TypeScript;Java;Web+Design;Web+Developer">
+<div align="right">
+  <img src= "https://readme-typing-svg.herokuapp.com?color=EFFF46&background=FF000000&center=yanl%C4%B1%C5%9F&vCenter=yanl%C4%B1%C5%9F&lines=Kadirium+Developer;JavaScript;NodeJS;TypeScript;Java;Web+Design;Web+Developer" width="550px">
 </div>
 
 <!-- Spotify Presence Kısmı -->

@@ -75,11 +75,11 @@
 </div>
 -->
 
-<!--
+
 <details>
-<summary>More Info</summary>
+<summary>Daha Fazla Bilgi</summary>
     
-### 💎 Experience
+### 💎 Deneyim
 <div align="center">
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> 
 <img src="https://img.shields.io/badge/python%20-%2343853D.svg?&style=for-the-badge&logo=python&logoColor=white">
@@ -88,7 +88,7 @@
   <img src="https://img.shields.io/badge/-C sharp-43853d?style=for-the-badge&logo=C sharp&logoColor=white">
 </div>
   
-### 📦 Apps
+### 📦 Uygulamalar
 <div align="center">
 <img src="https://img.shields.io/badge/-Firefox-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white"> 
 <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"> 
@@ -96,10 +96,10 @@
 <img src="https://img.shields.io/badge/-Authy-EC1C24?style=for-the-badge&logo=authy&logoColor=white">
 </div>
 
-### ⚙️ Tools
+### ⚙️ Aletler
 <div align="center">
 <img src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white">
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=pnpm&color=F69220&logo=pnpm&logoColor=FFF&label=">
 </div>
 </details>
--->
+

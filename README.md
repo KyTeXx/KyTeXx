@@ -19,6 +19,10 @@
  <div align= "left">
     <img src= "https://spotify-recently-played-readme.vercel.app/api?user=3ps0gb42l4ebj1s1qaofqq3iq&count=1">
 </div>
+
+ <div align= "right">
+    <img src= "https://spotify-recently-played-readme.vercel.app/api?user=3ps0gb42l4ebj1s1qaofqq3iq&count=1">
+</div>
  
 <!-- Discord Presence Kısmı -->
 <!-- 
@@ -33,15 +37,27 @@
   <tr>
     <td>Proje</td>
     <td>Açıklama</td>
+    <td>Tarih</td>
   </tr>
+
   <tr>
-    <td><a href="https://discord.com/api/oauth2/authorize?client_id=548838888777580554&permissions=8&redirect_uri=https%3A%2F%2Fdiscord.com%2Finvite%2Fxhx7hVyV2N&response_type=code&scope=bot%20guilds.join%20applications.commands">Kadirium Discord Bot</a></td>
+      <td>
+        <a href="https://discord.com/api/oauth2/authorize?client_id=548838888777580554&permissions=8&redirect_uri=https%3A%2F%2Fdiscord.com%2Finvite%2Fxhx7hVyV2N&response_type=code&scope=bot%20guilds.join%20applications.commands">
+          Kadirium Discord Bot
+        </a>
+      </td>
     <td>Gelişmiş, Çok Fonksiyonlu Türkçe Discord Botu</td>
+    <td>23 Şubat 2019</td>
   </tr>
+  
   <tr>
-    <td><a href="https://discord.com/api/oauth2/authorize?client_id=996027272442171432&permissions=8&redirect_uri=https%3A%2F%2Fdiscord.com%2Finvite%2Fxhx7hVyV2N&response_type=code&scope=guilds.join%20bot%20applications.commands">Hypex Discord Bot</a></td>
-    <td>Gelişmiş, Türkçe Discord Botu. API Sorunu Yaşamadan Özgürce Müzik Dinleyebilirsin</td>
+      <td>
+        <a href=""></a>
+      </td>
+    <td></td>
+    <td>23 Şubat 2019</td>
   </tr>
+  
 </table>
   
   

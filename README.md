@@ -48,14 +48,14 @@
   </tr>
 </table> 
 
-<h1 align="center">👤 Hesaplar & 💎 Deneyim</h1>
+<h1 align="center">👤 Hesaplar & 💎 Deneyim & 📦 Araçlar</h1>
 <div align="center">
    <a href="https://github.com/KadirBeyy" target"blank_"><img src="https://img.shields.io/badge/discord%20-%23323330.svg?&style=for-the-badge&logo=discord&logoColor=blue"></a>
    <a href="https://github.com/KadirBeyy" target"blank_"><img src="https://img.shields.io/badge/Youtube%20-%23323330.svg?&style=for-the-badge&logo=youtube&logoColor=EC1C24"></a>
    <a href="https://github.com/KadirBeyy" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-%23323330.svg?&style=for-the-badge&logo=github&logoColor=grey"></a>
    <a href="https://github.com/KadirBeyy" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-%23323330.svg?&style=for-the-badge&logo=spotify&logoColor=1ED760"></a>
  <br><br>
-   <a href="https://github.com/KadirBeyy" target"blank_">
+  <a href="https://github.com/KadirBeyy" target"blank_">
    <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
   <a href="https://github.com/KadirBeyy" target"blank_">
    <img src="https://img.shields.io/badge/html5%20-%23323330.svg?&style=for-the-badge&logo=html5&logoColor=23E34F26"></a>
@@ -63,6 +63,11 @@
    <img src="https://img.shields.io/badge/css3%20-%23323330.svg?&style=for-the-badge&logo=css3&logoColor=blue"></a>
   <a href="https://github.com/KadirBeyy" target"blank_">
    <img src="https://img.shields.io/badge/-Nodejs-%23323330?style=for-the-badge&logo=Node.js&logoColor=43853d"></a>
+ <br><br>
+  <a href="https://github.com/KadirBeyy" target"blank_">
+   <img src="https://img.shields.io/badge/Visual Studio Code%20-%23323330.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=blue"></a>
+  <a href="https://github.com/KadirBeyy" target"blank_">
+   <img src="https://img.shields.io/badge/Atom%20-%23323330.svg?&style=for-the-badge&logo=atom&logoColor=01ff55"></a>
 </div>
   
 <h1 align="center">🎯 Github İstatistik</h1>

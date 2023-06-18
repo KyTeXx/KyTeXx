@@ -21,7 +21,7 @@
 </div>
 -->
 
-### 💻 Projeler
+<h1 align="center">💻 Projeler</h1>
 <table align="center">
   <tr>
     <td>Proje</td>

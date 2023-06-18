@@ -77,28 +77,19 @@
   
 <details>
 <summary>GitHub İstatistik</summary>
-  
-  <div align ="center">
-    <a href="https://github.com/memetkya">
-    <img src="https://github-readme-stats.vercel.app/api?username=memetkya&show_icons=true&theme=radical"></a> 
-  </div>
-  
-  <div align ="left">
-    <a href="https://github.com/memetkya">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=memetkya">
-    </a> 
-  </div>
 
-  <div align ="right">
+  <div align ="center">
     <a href="https://github.com/memetkya">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=memetkya&layout=compact">
-    </a> 
+     <img width="47%" src="https://github-readme-stats.vercel.app/api?username=memetkya&show_icons=true&theme=radical&hide_border=true&locale=tr"></a> 
+    <a href="https://github.com/memetkya">
+     <img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=memetkya&theme=radical&hide_border=true&locale=tr"></a> 
   </div>
   
   <div align ="center">
     <a href="https://github.com/memetkya">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=memetkya&layout=compact">
-    </a>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=memetkya"></a> 
+    <a href="https://github.com/memetkya">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=memetkya&layout=compact"></a> 
   </div>
   
 </details>
@@ -106,18 +97,11 @@
 <details>
 <summary>GitHub Depolar</summary>
 
-  <div align="left">
+  <div align="center">
     <a href="https://github.com/memetkya/GitHub_Depo">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=memetkya&repo=GitHub_Depo" / width="500px">
-    </a>
-  </div>
-  
-  <div align="right">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=memetkya&repo=GitHub_Depo"></a>
     <a href="https://github.com/memetkya/GitHub_Depo">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=memetkya&repo=github_html" / width="500px">
-    </a>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=memetkya&repo=github_html"></a>
   </div>
-  
+
 </details>
-
-

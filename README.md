@@ -114,10 +114,10 @@
   
   <div align="right">
     <a href="https://github.com/memetkya/GitHub_Depo">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=memetkya&repo=GitHub_Depo" / width="500px">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=memetkya&repo=github_html" / width="500px">
     </a>
   </div>
   
 </details>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=memetkya&layout=compact)](https://github.com/memetkya/github_html)
+

@@ -21,7 +21,7 @@
 </div>
 -->
 
- ### 💻 Projeler
+### 💻 Projeler
 <table align="center">
   <tr>
     <td>Proje</td>
@@ -47,18 +47,15 @@
     <td>23 Şubat 2019</td>
   </tr>
 </table> 
-  
-### 👤 Hesaplar
+
+<h1 align="center">👤 Hesaplar & 💎 Deneyim</h1>
 <div align="center">
    <a href="https://github.com/memetkya" target"blank_"><img src="https://img.shields.io/badge/discord%20-%23323330.svg?&style=for-the-badge&logo=discord&logoColor=blue"></a>
    <a href="https://github.com/memetkya" target"blank_"><img src="https://img.shields.io/badge/Youtube%20-%23323330.svg?&style=for-the-badge&logo=youtube&logoColor=EC1C24"></a>
    <a href="https://github.com/memetkya" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-%23323330.svg?&style=for-the-badge&logo=github&logoColor=grey"></a>
    <a href="https://github.com/memetkya" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-%23323330.svg?&style=for-the-badge&logo=spotify&logoColor=1ED760"></a>
-</div>
-
-### 💎 Deneyim
-<div align="center">
-  <a href="https://github.com/memetkya" target"blank_">
+ <br><br>
+   <a href="https://github.com/memetkya" target"blank_">
    <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
   <a href="https://github.com/memetkya" target"blank_">
    <img src="https://img.shields.io/badge/html5%20-%23323330.svg?&style=for-the-badge&logo=html5&logoColor=23E34F26"></a>
@@ -68,7 +65,7 @@
    <img src="https://img.shields.io/badge/-Nodejs-%23323330?style=for-the-badge&logo=Node.js&logoColor=43853d"></a>
 </div>
   
-### 🎯 Github İstatistik
+<h1 align="center">🎯 Github İstatistik</h1>
   <div align ="center">
     <a href="https://github.com/memetkya">
      <img width="47%" src="https://github-readme-stats.vercel.app/api?username=memetkya&show_icons=true&theme=radical&hide_border=true&locale=tr"></a>
@@ -85,12 +82,11 @@
 
 <details>
 <summary>GitHub Depolar</summary><br>
-
   <div align="center">
     <a href="https://github.com/memetkya/GitHub_Depo">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=memetkya&repo=GitHub_Depo"></a>
     <a href="https://github.com/memetkya/GitHub_Depo">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=memetkya&repo=GitHub_Depo"></a>
   </div>
-
 </details>
+

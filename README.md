@@ -59,13 +59,22 @@
   
 ### 👤 Hesaplar
 <div align="center">
-   <a href="https://discord.gg/RRhWDTmP5K" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://discord.gg/RRhWDTmP5K" target"blank_"><img src="https://img.shields.io/badge/Youtube%20-111111.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
-   <a href="https://github.com/memetkya" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
- <!--  <a href="https://open.spotify.com/user/q3g6qbtferll26lky9bptfwfn?si=35881eab86bd4b2a" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-       <a href="https://twitter.com/ervelll" target"blank_"><img src="https://img.shields.io/badge/Twitter%20-111111.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
-  -->
-<a href="https://discord.gg/RRhWDTmP5K" target"blank_"><img src="https://img.shields.io/badge/server%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+   <a href="https://github.com/memetkya" target"blank_"><img src="https://img.shields.io/badge/discord%20-%23323330.svg?&style=for-the-badge&logo=discord&logoColor=blue"></a>
+   <a href="https://github.com/memetkya" target"blank_"><img src="https://img.shields.io/badge/Youtube%20-%23323330.svg?&style=for-the-badge&logo=youtube&logoColor=EC1C24"></a>
+   <a href="https://github.com/memetkya" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-%23323330.svg?&style=for-the-badge&logo=github&logoColor=grey"></a>
+   <a href="https://github.com/memetkya" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-%23323330.svg?&style=for-the-badge&logo=spotify&logoColor=1ED760"></a>
+</div>
+
+### 💎 Deneyim
+<div align="center">
+  <a href="https://github.com/memetkya" target"blank_">
+   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
+  <a href="https://github.com/memetkya" target"blank_">
+   <img src="https://img.shields.io/badge/html5%20-%23323330.svg?&style=for-the-badge&logo=html5&logoColor=23E34F26"></a>
+  <a href="https://github.com/memetkya" target"blank_">
+   <img src="https://img.shields.io/badge/css3%20-%23323330.svg?&style=for-the-badge&logo=css3&logoColor=blue"></a>
+  <a href="https://github.com/memetkya" target"blank_">
+   <img src="https://img.shields.io/badge/-Nodejs-%23323330?style=for-the-badge&logo=Node.js&logoColor=43853d"></a>
 </div>
   
 <details>
@@ -110,46 +119,5 @@
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=memetkya&repo=convoychat" / width="500px">
     </a>
   </div>
-
-  <div align="left">
-    <a href="https://github.com/memetkya/GitHub_Depo">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=memetkya&repo=github-readme-stats" / width="500px">
-    </a>
-  </div>
-  
-  <div align="right">
-    <a href="https://github.com/memetkya/GitHub_Depo">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=memetkya&repo=convoychat" / width="500px">
-    </a>
-  </div>
   
 </details>
-
-<!--
-<details>
-<summary>Daha Fazla Bilgi</summary>
-    
-### 💎 Deneyim
-<div align="center">
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> 
-<img src="https://img.shields.io/badge/python%20-%2343853D.svg?&style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">  
-<img src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/-C sharp-43853d?style=for-the-badge&logo=C sharp&logoColor=white">
-</div>
-  
-### 📦 Uygulamalar
-<div align="center">
-<img src="https://img.shields.io/badge/-Firefox-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white"> 
-<img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"> 
-<img src="https://img.shields.io/badge/-Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white">
-<img src="https://img.shields.io/badge/-Authy-EC1C24?style=for-the-badge&logo=authy&logoColor=white">
-</div>
-
-### ⚙️ Aletler
-<div align="center">
-<img src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white">
-<img src="https://img.shields.io/static/v1?style=for-the-badge&message=pnpm&color=F69220&logo=pnpm&logoColor=FFF&label=">
-</div>
-</details>
--->

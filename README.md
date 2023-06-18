@@ -53,9 +53,7 @@
     <td></td>
     <td>23 Şubat 2019</td>
   </tr>
-  
-</table>
-  
+</table> 
   
 ### 👤 Hesaplar
 <div align="center">
@@ -110,14 +108,16 @@
 
   <div align="left">
     <a href="https://github.com/memetkya/GitHub_Depo">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=memetkya&repo=github-readme-stats" / width="500px">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=memetkya&repo=GitHub_Depo" / width="500px">
     </a>
   </div>
   
   <div align="right">
     <a href="https://github.com/memetkya/GitHub_Depo">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=memetkya&repo=convoychat" / width="500px">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=memetkya&repo=GitHub_Depo" / width="500px">
     </a>
   </div>
   
 </details>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=memetkya&layout=compact)](https://github.com/memetkya/GitHub_Depo)

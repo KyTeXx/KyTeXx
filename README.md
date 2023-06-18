@@ -120,4 +120,4 @@
   
 </details>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=memetkya&layout=compact)](https://github.com/memetkya/GitHub_Depo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=memetkya&layout=compact)](https://github.com/memetkya/github_html)

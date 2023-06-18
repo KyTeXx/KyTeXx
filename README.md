@@ -16,7 +16,7 @@
 </div>
 
 <!-- Spotify Presence Kısmı -->
- <div align= "left">
+ <div align= "center">
     <img src= "https://spotify-recently-played-readme.vercel.app/api?user=3ps0gb42l4ebj1s1qaofqq3iq&count=1">
 </div>
  
@@ -87,9 +87,9 @@
   
   <div align ="center">
     <a href="https://github.com/memetkya">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=memetkya"></a> 
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=memetkya&hide_border=true&locale=tr"></a> 
     <a href="https://github.com/memetkya">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=memetkya&layout=compact"></a> 
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=memetkya&layout=compact&hide_border=true&locale=tr"></a> 
   </div>
   
 </details>

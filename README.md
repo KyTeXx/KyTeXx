@@ -50,43 +50,43 @@
 
 <h1 align="center">👤 Hesaplar & 💎 Deneyim</h1>
 <div align="center">
-   <a href="https://github.com/memetkya" target"blank_"><img src="https://img.shields.io/badge/discord%20-%23323330.svg?&style=for-the-badge&logo=discord&logoColor=blue"></a>
-   <a href="https://github.com/memetkya" target"blank_"><img src="https://img.shields.io/badge/Youtube%20-%23323330.svg?&style=for-the-badge&logo=youtube&logoColor=EC1C24"></a>
-   <a href="https://github.com/memetkya" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-%23323330.svg?&style=for-the-badge&logo=github&logoColor=grey"></a>
-   <a href="https://github.com/memetkya" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-%23323330.svg?&style=for-the-badge&logo=spotify&logoColor=1ED760"></a>
+   <a href="https://github.com/KadirBeyy" target"blank_"><img src="https://img.shields.io/badge/discord%20-%23323330.svg?&style=for-the-badge&logo=discord&logoColor=blue"></a>
+   <a href="https://github.com/KadirBeyy" target"blank_"><img src="https://img.shields.io/badge/Youtube%20-%23323330.svg?&style=for-the-badge&logo=youtube&logoColor=EC1C24"></a>
+   <a href="https://github.com/KadirBeyy" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-%23323330.svg?&style=for-the-badge&logo=github&logoColor=grey"></a>
+   <a href="https://github.com/KadirBeyy" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-%23323330.svg?&style=for-the-badge&logo=spotify&logoColor=1ED760"></a>
  <br><br>
-   <a href="https://github.com/memetkya" target"blank_">
+   <a href="https://github.com/KadirBeyy" target"blank_">
    <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
-  <a href="https://github.com/memetkya" target"blank_">
+  <a href="https://github.com/KadirBeyy" target"blank_">
    <img src="https://img.shields.io/badge/html5%20-%23323330.svg?&style=for-the-badge&logo=html5&logoColor=23E34F26"></a>
-  <a href="https://github.com/memetkya" target"blank_">
+  <a href="https://github.com/KadirBeyy" target"blank_">
    <img src="https://img.shields.io/badge/css3%20-%23323330.svg?&style=for-the-badge&logo=css3&logoColor=blue"></a>
-  <a href="https://github.com/memetkya" target"blank_">
+  <a href="https://github.com/KadirBeyy" target"blank_">
    <img src="https://img.shields.io/badge/-Nodejs-%23323330?style=for-the-badge&logo=Node.js&logoColor=43853d"></a>
 </div>
   
 <h1 align="center">🎯 Github İstatistik</h1>
   <div align ="center">
-    <a href="https://github.com/memetkya">
-     <img width="47%" src="https://github-readme-stats.vercel.app/api?username=memetkya&show_icons=true&theme=radical&hide_border=true&locale=tr"></a>
-    <a href="https://github.com/memetkya">
-     <img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=memetkya&theme=radical&hide_border=true&locale=tr"></a>
+    <a href="https://github.com/KadirBeyy">
+     <img width="47%" src="https://github-readme-stats.vercel.app/api?username=KadirBeyy&show_icons=true&theme=radical&hide_border=true&locale=tr"></a>
+    <a href="https://github.com/KadirBeyy">
+     <img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=KadirBeyy&theme=radical&hide_border=true&locale=tr"></a>
   </div><br>
   
   <div align ="center">
-    <a href="https://github.com/memetkya">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=memetkya&hide_border=true&locale=tr"></a> 
-    <a href="https://github.com/memetkya">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=memetkya&layout=compact&hide_border=true&locale=tr"></a> 
+    <a href="https://github.com/KadirBeyy">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KadirBeyy&hide_border=true&locale=tr"></a> 
+    <a href="https://github.com/KadirBeyy">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KadirBeyy&layout=compact&hide_border=true&locale=tr"></a> 
   </div>
 
 <details>
 <summary>GitHub Depolar</summary><br>
   <div align="center">
-    <a href="https://github.com/memetkya/GitHub_Depo">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=memetkya&repo=GitHub_Depo"></a>
-    <a href="https://github.com/memetkya/GitHub_Depo">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=memetkya&repo=GitHub_Depo"></a>
+    <a href="https://github.com/KadirBeyy/GitHub_Depo">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=KadirBeyy&repo=GitHub_Depo"></a>
+    <a href="https://github.com/KadirBeyy/GitHub_Depo">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=KadirBeyy&repo=GitHub_Depo"></a>
   </div>
 </details>
 

@@ -4,7 +4,7 @@
 </div>
  -->
 <div align="center">
-  <h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hakkımda</h1> 
+  <h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">Selam Millet</h1> 
     <p>Benim Hakkımda Detaylı Bilgi İçin Aşağıdaki Adımları Okumayı Unutma!</p>
   <br>
   <br>

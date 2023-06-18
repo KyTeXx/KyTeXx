@@ -11,7 +11,7 @@
 
 <!-- Yazı Presence Kısmı -->
 <div align="right">
-  <img src= "https://readme-typing-svg.herokuapp.com?color=EFFF46&background=FF000000&center=yanl%C4%B1%C5%9F&vCenter=yanl%C4%B1%C5%9F&lines=Kadirium+Developer;Web+Designer;Web+Developer;JavaScript+Developer;NodeJS+Developer;TypeScript+Developer;Java+Developer" width="600px" height="150">
+  <img src= "https://readme-typing-svg.herokuapp.com?color=EFFF46&background=FF000000&center=yanl%C4%B1%C5%9F&vCenter=yanl%C4%B1%C5%9F&lines=Kadirium+Developer;Web+Designer;Web+Developer;JavaScript+Developer;NodeJS+Developer" width="600px" height="150">
 </div>
 
 <!-- Spotify & Discord Presence Kısmı

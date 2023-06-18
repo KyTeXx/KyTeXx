@@ -14,11 +14,12 @@
   <img src= "https://readme-typing-svg.herokuapp.com?color=EFFF46&background=FF000000&center=yanl%C4%B1%C5%9F&vCenter=yanl%C4%B1%C5%9F&lines=Kadirium+Developer;Web+Designer;Web+Developer;JavaScript+Developer;NodeJS+Developer;TypeScript+Developer;Java+Developer" width="600px" height="150">
 </div>
 
-<!-- Spotify & Discord Presence Kısmı -->
+<!-- Spotify & Discord Presence Kısmı
  <div align= "center">
     <img width="47%" src= "https://spotify-recently-played-readme.vercel.app/api?user=3ps0gb42l4ebj1s1qaofqq3iq&count=1">
-   <!-- <img width="50%" src="https://lanyard-profile-readme.vercel.app/api/425656085228027904"> -->
+    <img width="50%" src="https://lanyard-profile-readme.vercel.app/api/425656085228027904">
 </div>
+-->
 
  ### 💻 Projeler
 <table align="center">

@@ -38,6 +38,7 @@
       </td>
     <td>Gelişmiş, Çok Fonksiyonlu Türkçe Discord Botu</td>
     <td>23 Şubat 2019</td>
+   <td>Devam Ediyor</td>
   </tr>
   
   <tr>
@@ -47,6 +48,7 @@
         </a>
       </td>
     <td>Api Sorunları Olmadan Özgürce Müzik Dinleyin</td>
+    <td></td>
     <td></td>
   </tr>
 </table> 

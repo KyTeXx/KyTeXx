@@ -41,10 +41,12 @@
   
   <tr>
       <td>
-        <a href=""></a>
+        <a href="https://github.com/KadirBeyy">
+         Hypex Discord Bot
+        </a>
       </td>
+    <td>Api Sorunları Olmadan Özgürce Müzik Dinleyin</td>
     <td></td>
-    <td>23 Şubat 2019</td>
   </tr>
 </table> 
 

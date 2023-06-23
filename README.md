@@ -94,9 +94,9 @@
 <summary>GitHub Depolar</summary><br>
   <div align="center">
     <a href="https://github.com/KadirBeyy/GitHub_Depo">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=KadirBeyy&repo=GitHub_Depo"></a>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=KadirBeyy&repo=Hypex_Music"></a>
     <a href="https://github.com/KadirBeyy/GitHub_Depo">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=KadirBeyy&repo=GitHub_Depo"></a>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=KadirBeyy&repo=Hypex_Music"></a>
   </div>
 </details>
 

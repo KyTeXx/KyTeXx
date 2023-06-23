@@ -38,7 +38,7 @@
       </td>
     <td>Gelişmiş, Çok Fonksiyonlu Türkçe Discord Botu</td>
     <td>23 Şubat 2019</td>
-   <td>Devam Ediyor</td>
+   <td></td>
   </tr>
   
   <tr>

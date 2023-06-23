@@ -26,7 +26,8 @@
   <tr>
     <td>Proje</td>
     <td>Açıklama</td>
-    <td>Tarih</td>
+    <td>Bağlangıç Tarihi</td>
+    <td>Bitiş Tarihi</td>
   </tr>
 
   <tr>

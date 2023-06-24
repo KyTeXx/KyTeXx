@@ -85,16 +85,16 @@
   
   <div align ="center">
     <a href="https://github.com/KadirBeyy">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KadirBeyy&hide_border=true&locale=tr"></a> 
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KadirBeyy&theme=tokyonight&hide_border=true&locale=tr"></a> 
     <a href="https://github.com/KadirBeyy">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KadirBeyy&layout=compact&hide_border=true&locale=tr"></a> 
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KadirBeyy&layout=compact&theme=tokyonight&hide_border=true&locale=tr"></a> 
   </div>
 
 <details>
 <summary>GitHub Depolar</summary><br>
   <div align="center">
     <a href="https://github.com/KadirBeyy/Hypex_Music">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=KadirBeyy&repo=Hypex_Music"></a>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=KadirBeyy&repo=Hypex_Music&theme=tokyonight&hide_border=true&locale=tr"></a>
   </div>
 </details>
 

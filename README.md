@@ -9,6 +9,8 @@
   <br>
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 <!-- Yazı Presence Kısmı
 <div align="right">
   <img src= "https://readme-typing-svg.herokuapp.com?color=EFFF46&background=FF000000&center=yanl%C4%B1%C5%9F&vCenter=yanl%C4%B1%C5%9F&lines=Kadirium+Developer;Web+Designer;Web+Developer;JavaScript+Developer;NodeJS+Developer" width="600px" height="150">
@@ -93,8 +95,8 @@
 <details>
 <summary>GitHub Depolar</summary><br>
   <div align="center">
-    <a href="https://github.com/KadirBeyy/Hypex_Music">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=KadirBeyy&repo=Hypex_Music&theme=tokyonight&hide_border=true&locale=tr"></a>
+    <a href="https://github.com/KadirBeyy/KadirBeyy">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=KadirBeyy&repo=KadirBeyy&theme=tokyonight&hide_border=true&locale=tr"></a>
   </div>
 </details>
 

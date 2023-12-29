@@ -86,7 +86,7 @@
     <a href="https://github.com/KadirBeyy">
      <img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KadirBeyy&theme=radical&hide_border=true&locale=tr"></a>
     <a href="https://github.com/KadirBeyy">
-     <img width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KadirBeyy&theme=radical&utcOffset=8&hide_border=true&locale=tr"></a>
+     <img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KadirBeyy&theme=radical&utcOffset=8&hide_border=true&locale=tr"></a>
   </div><br>
   
   <div align ="center">

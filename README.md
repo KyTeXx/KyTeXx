@@ -98,83 +98,43 @@
 
 <details>
 <summary>GitHub Depolar</summary><br>
-  <div align="center">
+  <div align="left">
     <a href="https://github.com/KadirBeyy/KadirBeyy">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=KadirBeyy&repo=KadirBeyy&theme=tokyonight&hide_border=true&locale=tr"></a>
   </div>
-  <div align="center">
+  <div align="right">
     <a href="https://github.com/KadirBeyy/KadirBeyy">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=KadirBeyy&repo=KadirBeyy&theme=tokyonight&hide_border=true&locale=tr"></a>
   </div>
-  <div align="center">
+  <div align="left">
     <a href="https://github.com/KadirBeyy/KadirBeyy">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=KadirBeyy&repo=KadirBeyy&theme=tokyonight&hide_border=true&locale=tr"></a>
   </div>
-  <div align="center">
+  <div align="right">
     <a href="https://github.com/KadirBeyy/KadirBeyy">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=KadirBeyy&repo=KadirBeyy&theme=tokyonight&hide_border=true&locale=tr"></a>
   </div>
-  <div align="center">
+  <div align="left">
     <a href="https://github.com/KadirBeyy/KadirBeyy">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=KadirBeyy&repo=KadirBeyy&theme=tokyonight&hide_border=true&locale=tr"></a>
   </div>
-  <div align="center">
+  <div align="right">
     <a href="https://github.com/KadirBeyy/KadirBeyy">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=KadirBeyy&repo=KadirBeyy&theme=tokyonight&hide_border=true&locale=tr"></a>
   </div>
-  <div align="center">
+  <div align="left">
     <a href="https://github.com/KadirBeyy/KadirBeyy">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=KadirBeyy&repo=KadirBeyy&theme=tokyonight&hide_border=true&locale=tr"></a>
   </div>
-  <div align="center">
+  <div align="right">
     <a href="https://github.com/KadirBeyy/KadirBeyy">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=KadirBeyy&repo=KadirBeyy&theme=tokyonight&hide_border=true&locale=tr"></a>
   </div>
-  <div align="center">
+  <div align="left">
     <a href="https://github.com/KadirBeyy/KadirBeyy">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=KadirBeyy&repo=KadirBeyy&theme=tokyonight&hide_border=true&locale=tr"></a>
   </div>
-  <div align="center">
-    <a href="https://github.com/KadirBeyy/KadirBeyy">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=KadirBeyy&repo=KadirBeyy&theme=tokyonight&hide_border=true&locale=tr"></a>
-  </div>
-  <div align="center">
-    <a href="https://github.com/KadirBeyy/KadirBeyy">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=KadirBeyy&repo=KadirBeyy&theme=tokyonight&hide_border=true&locale=tr"></a>
-  </div>
-  <div align="center">
-    <a href="https://github.com/KadirBeyy/KadirBeyy">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=KadirBeyy&repo=KadirBeyy&theme=tokyonight&hide_border=true&locale=tr"></a>
-  </div>
-  <div align="center">
-    <a href="https://github.com/KadirBeyy/KadirBeyy">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=KadirBeyy&repo=KadirBeyy&theme=tokyonight&hide_border=true&locale=tr"></a>
-  </div>
-  <div align="center">
-    <a href="https://github.com/KadirBeyy/KadirBeyy">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=KadirBeyy&repo=KadirBeyy&theme=tokyonight&hide_border=true&locale=tr"></a>
-  </div>
-  <div align="center">
-    <a href="https://github.com/KadirBeyy/KadirBeyy">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=KadirBeyy&repo=KadirBeyy&theme=tokyonight&hide_border=true&locale=tr"></a>
-  </div>
-  <div align="center">
-    <a href="https://github.com/KadirBeyy/KadirBeyy">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=KadirBeyy&repo=KadirBeyy&theme=tokyonight&hide_border=true&locale=tr"></a>
-  </div>
-  <div align="center">
-    <a href="https://github.com/KadirBeyy/KadirBeyy">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=KadirBeyy&repo=KadirBeyy&theme=tokyonight&hide_border=true&locale=tr"></a>
-  </div>
-  <div align="center">
-    <a href="https://github.com/KadirBeyy/KadirBeyy">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=KadirBeyy&repo=KadirBeyy&theme=tokyonight&hide_border=true&locale=tr"></a>
-  </div>
-  <div align="center">
-    <a href="https://github.com/KadirBeyy/KadirBeyy">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=KadirBeyy&repo=KadirBeyy&theme=tokyonight&hide_border=true&locale=tr"></a>
-  </div>
-  <div align="center">
+  <div align="right">
     <a href="https://github.com/KadirBeyy/KadirBeyy">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=KadirBeyy&repo=KadirBeyy&theme=tokyonight&hide_border=true&locale=tr"></a>
   </div>

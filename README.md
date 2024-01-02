@@ -38,7 +38,7 @@
           Kadirium Discord Bot
         </a>
       </td>
-    <td>Gelişmiş, Çok Fonksiyonlu Türkçe Discord Botu</td>
+    <td>Gelişmiş, Çok Fonksiyonlu Çok Dilli Discord Botu</td>
     <td>23 Şubat 2019</td>
    <td></td>
   </tr>

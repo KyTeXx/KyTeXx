@@ -34,7 +34,7 @@
 
   <tr>
       <td>
-        <a href="https://discord.com/api/oauth2/authorize?client_id=548838888777580554&permissions=8&redirect_uri=https%3A%2F%2Fdiscord.com%2Finvite%2Fxhx7hVyV2N&response_type=code&scope=bot%20guilds.join%20applications.commands">
+        <a href="https://github.com/KadirBeyy">
           Kadirium Discord Bot
         </a>
       </td>

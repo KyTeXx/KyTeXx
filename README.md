@@ -35,7 +35,7 @@
   <tr>
       <td>
         <a href="https://github.com/KadirBeyy">
-          Kadirium Discord Bot
+          KyTeX Discord Bot
         </a>
       </td>
     <td>Gelişmiş, Çok Fonksiyonlu Çok Dilli Discord Botu</td>

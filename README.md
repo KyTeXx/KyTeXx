@@ -34,7 +34,7 @@
 
   <tr>
       <td>
-        <a href="https://github.com/KyTeXx">
+        <a href="https://discord.com/oauth2/authorize?client_id=1500250838650720467">
           KyTeX Discord Bot
         </a>
       </td>
@@ -45,7 +45,7 @@
   
   <tr>
       <td>
-        <a href="https://github.com/KyTeXx">
+        <a href="https://discord.com/oauth2/authorize?client_id=1500251102212259982">
          Hypex Discord Bot
         </a>
       </td>
